@@ -2,44 +2,54 @@
 
 layout: col-sidebar
 title: OWASP Embedded Application Security
-tags: example-tag
+tags: embedded
 level: 0
 type: documentation
-
+pitch: The Embedded Application Security Project produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.
 auto-migrated: 1
 
 ---
 
+![OWASP Incubator Project](https://owasp.org/www-project-cyber-controls-matrix/assets/images/OWASP-Incubator_Project-blue.svg)
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-{front matter for this file}
+## Contributions
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
+You do not have to be a security expert in order to contribute\!
+
+Some of the ways you can help:
+
+  - Technical editing
+  - Review
+  - Diagrams
+  - Graphic design
+  - Code snippets in your favorite language
+  - Translate guidance material
+
+Feel free to sign up for a task out of our roadmap below or add your own
+idea to the roadmap. To get started, create a GitBook account or sign in
+with your Github credentials to add comments and make edits. All changes
+are tracked and synced to https://github.com/scriptingxss/embeddedappsec. 
+
+Alternatively, clone the Github repo, use your favorite markdown editor, apply/make your edits, and submit a pull request. Feel free to contact the project leaders for ways to get involved.
+
+Any contributions to the guide itself should be made via the [guide's project repo] (https://scriptingxss.gitbook.io/embedded-appsec-best-practices/.
+
+Made possible by contributions from:
+
+Jim Manico
+Benjamin Samuels
+Janet Kulp
+
+## Getting Started
+
+For the most up to date best practices document, please visit https://scriptingxss.gitbooks.io/embedded-appsec-best-practices/
 ```
 
 {copy for this file (index.md)}
 Replace the text above the commented area with your information in the format below:
 ```
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
 
 ```
 {info.md}
