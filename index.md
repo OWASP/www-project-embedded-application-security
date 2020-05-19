@@ -44,20 +44,3 @@ Janet Kulp
 ## Getting Started
 
 For the most up to date best practices document, please visit https://scriptingxss.gitbooks.io/embedded-appsec-best-practices/
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
