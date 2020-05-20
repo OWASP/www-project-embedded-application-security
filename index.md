@@ -6,7 +6,7 @@ tags: embedded
 level: 0
 type: documentation
 pitch: The Embedded Application Security Project produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.
-auto-migrated: 1
+
 
 ---
 
