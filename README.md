@@ -6,15 +6,17 @@ Documentation explaining the files in this repo can be found at: https://owasp.o
 
 ## Contributions
 
-Any contributions to the guide itself should be made via the [guide's project repo] (https://scriptingxss.gitbook.io/embedded-appsec-best-practices/.
+Any contributions to the guide itself should be made via the [guide's project repo] (https://scriptingxss.gitbook.io/embedded-appsec-best-practices/)
 
 Made possible by contributions from:
 
 Jim Manico
+
 Benjamin Samuels
+
 Janet Kulp
 
 ## Getting Started
 
-For the most up to date best practices document, please visit https://scriptingxss.gitbooks.io/embedded-appsec-best-practices/
+For the most up to date best practices document, please visit the [GitBook] (https://scriptingxss.gitbooks.io/embedded-appsec-best-practices/)
 
