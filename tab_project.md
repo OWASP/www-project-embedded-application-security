@@ -12,7 +12,7 @@ tags: embedded
 
 [Click here to find additional details pertaining to each of the top ten
 categories listed
-below](https://scriptingxss.gitbooks.io/embedded-application-security-best-practices/content/)
+below](https://scriptingxss.gitbook.io/embedded-appsec-best-practices/)
 
 ## E1 – Buffer and Stack Overflow Protection
 
