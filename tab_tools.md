@@ -58,5 +58,4 @@ missing tools from your arsenal, please feel free to add them.
   - Capstone framework [13](http://www.capstone-engine.org/)
   - [Firmware Analysis and Comparison
     Tool](https://github.com/fkie-cad/FACT_core)
-  - [Firmware Analysis
-    Toolkit](https://github.com/attify/firmware-analysis-toolkit)
+ 
