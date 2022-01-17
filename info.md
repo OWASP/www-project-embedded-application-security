@@ -16,6 +16,6 @@ The Embedded Application Security Project produces a document that will provide 
 
 ### Social
 
-* [Join OWASP Slack](https://owasp-slack.herokuapp.com/)
-* Channel: [#embeddedappsec]
+* [Join OWASP Slack](https://owasp.org/slack/invite)
+* Channel: [#project-embeddedappsec]
 
